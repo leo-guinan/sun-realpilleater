@@ -1,0 +1,382 @@
+{
+  "id": "sun-realpilleater",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@realpilleater Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_2175d64c7af8",
+    "display_name": "realpilleater",
+    "user_id": "@realpilleater",
+    "description": "Community Archive-derived proof-of-search sun for @realpilleater.",
+    "document_count": 32022,
+    "word_count": 539352,
+    "active_days": 2757,
+    "emissions": [
+      "Youtube",
+      "Video",
+      "White",
+      "Asian",
+      "Liked",
+      "Blackstone"
+    ],
+    "generated_at": "2026-06-27T17:04:47.703198+00:00",
+    "color": "#f59e0b",
+    "mass": 13.198
+  },
+  "planets": [
+    {
+      "id": "planet_a2715d6e160d",
+      "name": "Youtube",
+      "summary": "Archive cluster around youtube: 26979 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "youtube",
+        "video",
+        "liked",
+        "axa",
+        "starkian7789"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e74d1c8eebf7",
+          "title": "Youtube receipt from 2025-06-21",
+          "excerpt": "https://t.co/nUUHV2rRbM",
+          "source_document_id": "1936381386505527383",
+          "timestamp": "2025-06-21T11:11:13+00:00",
+          "url": "https://x.com/realpilleater/status/1936381386505527383",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: youtube, video, liked, axa."
+        },
+        {
+          "id": "art_1facb19f7ef4",
+          "title": "Youtube receipt from 2025-09-17",
+          "excerpt": "https://t.co/MTDHt8KoMU",
+          "source_document_id": "1968379280842432808",
+          "timestamp": "2025-09-17T18:19:25+00:00",
+          "url": "https://x.com/realpilleater/status/1968379280842432808",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: youtube, video, liked, axa."
+        },
+        {
+          "id": "art_a62f9aea2cba",
+          "title": "Youtube receipt from 2025-06-24",
+          "excerpt": "https://t.co/Qyk8RSyIkC",
+          "source_document_id": "1937348162332832038",
+          "timestamp": "2025-06-24T03:12:50+00:00",
+          "url": "https://x.com/realpilleater/status/1937348162332832038",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: youtube, video, liked, axa."
+        },
+        {
+          "id": "art_84ad0ac99552",
+          "title": "Youtube receipt from 2025-04-22",
+          "excerpt": "Bronze Age Shawty https://t.co/nwLvxo9o01",
+          "source_document_id": "1914736810791522439",
+          "timestamp": "2025-04-22T17:43:24+00:00",
+          "url": "https://x.com/realpilleater/status/1914736810791522439",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: youtube, video, liked, axa."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_79263c0cb345",
+      "proof_score": 1,
+      "mass": 38.785,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_b54f596b1a6c",
+      "name": "Video",
+      "summary": "Archive cluster around video: 337 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "video",
+        "games",
+        "new",
+        "japanese",
+        "watch"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a2c008b18bc4",
+          "title": "Video receipt from 2025-04-18",
+          "excerpt": "Video Art Paul https://t.co/mZJ3B6p5g0",
+          "source_document_id": "1913287491588681843",
+          "timestamp": "2025-04-18T17:44:19+00:00",
+          "url": "https://x.com/realpilleater/status/1913287491588681843",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: video, games, new, japanese."
+        },
+        {
+          "id": "art_4fc8722a828d",
+          "title": "Video receipt from 2025-09-02",
+          "excerpt": "Safe Sleazy makes a TikTok video https://t.co/4m57Q0O1SE",
+          "source_document_id": "1962876049517089095",
+          "timestamp": "2025-09-02T13:51:33+00:00",
+          "url": "https://x.com/realpilleater/status/1962876049517089095",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: video, games, new, japanese."
+        },
+        {
+          "id": "art_611516ba537f",
+          "title": "Video receipt from 2025-07-03",
+          "excerpt": "If you want to be an avant-garde video artist or interactive art installation designer, you have to have 3,000 plus followers on Instagram and a website that reads like a LinkedIn CV and say that you have stuff hanging in the Whitney. \n\nNow you have the right to live in Bushwick.",
+          "source_document_id": "1940817604064825679",
+          "timestamp": "2025-07-03T16:59:10+00:00",
+          "url": "https://x.com/realpilleater/status/1940817604064825679",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: video, games, new, japanese."
+        },
+        {
+          "id": "art_afa39300192d",
+          "title": "Video receipt from 2025-06-27",
+          "excerpt": "Japan is under colonial rule, and it can only have a slave economy; in that it can only produce food, animation, video games, and pornography. These things are exported to the G7 states, and in return, the Japanese are held hostage as the holy \"good Asians\" that model liberalism.",
+          "source_document_id": "1938608415737061505",
+          "timestamp": "2025-06-27T14:40:38+00:00",
+          "url": "https://x.com/realpilleater/status/1938608415737061505",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: video, games, new, japanese."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_78285a21e76d",
+      "proof_score": 0.932,
+      "mass": 26.95,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_ef89d3d0146b",
+      "name": "White",
+      "summary": "Archive cluster around white: 2115 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "white",
+        "asian",
+        "women",
+        "men",
+        "black"
+      ],
+      "artifacts": [
+        {
+          "id": "art_34e6f0feffa7",
+          "title": "White receipt from 2025-07-02",
+          "excerpt": "Whether White Nationalism likes it or not, this is an average neopagan in 2025: https://t.co/IJ1OvHxPp7",
+          "source_document_id": "1940529908801065357",
+          "timestamp": "2025-07-02T21:55:58+00:00",
+          "url": "https://x.com/realpilleater/status/1940529908801065357",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: white, asian, women, men."
+        },
+        {
+          "id": "art_dd27ee5e21ec",
+          "title": "White receipt from 2025-06-28",
+          "excerpt": "white people's first Asian film https://t.co/2sc4sDIA8V",
+          "source_document_id": "1938791627734306996",
+          "timestamp": "2025-06-28T02:48:39+00:00",
+          "url": "https://x.com/realpilleater/status/1938791627734306996",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: white, asian, women, men."
+        },
+        {
+          "id": "art_4f7d238e6566",
+          "title": "White receipt from 2025-08-22",
+          "excerpt": "And YES, I ONLY HAVE SEX WITH WHITE MEN. https://t.co/Z9ciz2iMTM",
+          "source_document_id": "1958948671665631404",
+          "timestamp": "2025-08-22T17:45:33+00:00",
+          "url": "https://x.com/realpilleater/status/1958948671665631404",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: white, asian, women, men."
+        },
+        {
+          "id": "art_24b82dd12071",
+          "title": "White receipt from 2025-07-10",
+          "excerpt": "MDE hipsters all the same.\n\nIt's like they're a bunch of autistic lower middle white class liberals (reddit people) but they pretend they're national socialist or white nationalist and yet claim hipster status or liberal victimhood anyway.\n\nThey project while assuming coolness.",
+          "source_document_id": "1943355488097218690",
+          "timestamp": "2025-07-10T17:03:48+00:00",
+          "url": "https://x.com/realpilleater/status/1943355488097218690",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: white, asian, women, men."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0924317c7662",
+      "proof_score": 1,
+      "mass": 33.8,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_5fba31f1f874",
+      "name": "Asian",
+      "summary": "Archive cluster around asian: 1204 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "asian",
+        "aryanism",
+        "aryan",
+        "eurasian",
+        "starkian7789"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fd31fba93f4c",
+          "title": "Asian receipt from 2025-05-16",
+          "excerpt": "SUICIDAL \nASIAN \n&amp;\nPROMISCUOUS https://t.co/GYMGQF40kz",
+          "source_document_id": "1923169688395165799",
+          "timestamp": "2025-05-16T00:12:39+00:00",
+          "url": "https://x.com/realpilleater/status/1923169688395165799",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: asian, aryanism, aryan, eurasian."
+        },
+        {
+          "id": "art_4c232dc71c5f",
+          "title": "Asian receipt from 2025-10-27",
+          "excerpt": "Nigga I just saw Xiu Xiu and you’re telling me the only hip Asian girl here is smoking with her lesbian friend? \n\nidk if this is AxA kind of sketchy. https://t.co/g0HsGfmVJq",
+          "source_document_id": "1982617941607936496",
+          "timestamp": "2025-10-27T01:18:47+00:00",
+          "url": "https://x.com/realpilleater/status/1982617941607936496",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: asian, aryanism, aryan, eurasian."
+        },
+        {
+          "id": "art_1d48c8682c18",
+          "title": "Asian receipt from 2025-07-22",
+          "excerpt": "Every single lying Asian girl I've met on Tinder, Hinge, Bumble, whatever: https://t.co/vhHFSgpgTZ",
+          "source_document_id": "1947524284689379743",
+          "timestamp": "2025-07-22T05:09:07+00:00",
+          "url": "https://x.com/realpilleater/status/1947524284689379743",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: asian, aryanism, aryan, eurasian."
+        },
+        {
+          "id": "art_12bbf6b5d61c",
+          "title": "Asian receipt from 2025-08-15",
+          "excerpt": "The only way to get Asian girls now is you got to act and look like Safe Sleazy https://t.co/kQafsscAhy https://t.co/7IiM6AkvTf",
+          "source_document_id": "1956405995627843609",
+          "timestamp": "2025-08-15T17:21:52+00:00",
+          "url": "https://x.com/realpilleater/status/1956405995627843609",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: asian, aryanism, aryan, eurasian."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_92a32025d1a4",
+      "proof_score": 1,
+      "mass": 29.84,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_5ad8ca76645a",
+      "name": "Liked",
+      "summary": "Archive cluster around liked: 33 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "liked",
+        "drugs",
+        "ever",
+        "everyone",
+        "never"
+      ],
+      "artifacts": [
+        {
+          "id": "art_25102a875868",
+          "title": "Liked receipt from 2022-05-16",
+          "excerpt": "@stillgray Never did I use the term \"conservative.\" I liked reading about William Buckley in undergrad. But the real story is I was reading Mussolini and Savitri Devi at 15!!!",
+          "source_document_id": "1526329932237897730",
+          "timestamp": "2022-05-16T22:33:08+00:00",
+          "url": "https://x.com/realpilleater/status/1526329932237897730",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: liked, drugs, ever, everyone."
+        },
+        {
+          "id": "art_a94b6a82c6e2",
+          "title": "Liked receipt from 2025-10-23",
+          "excerpt": "If “A Hole In The Wall” by Joe Nally was ever published by Terror House Press or A Thin Slice of Anxiety in 2022, it would have looked liked Cherry Wagon by Joseph Matick. \n\nI demanded that the cover was akin to Starflyer 59’s Silver album in 1994. Simple, almost nothing, as a… https://t.co/EnXymTjhFj",
+          "source_document_id": "1981377289351737840",
+          "timestamp": "2025-10-23T15:08:52+00:00",
+          "url": "https://x.com/realpilleater/status/1981377289351737840",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: liked, drugs, ever, everyone."
+        },
+        {
+          "id": "art_8f1179b838c5",
+          "title": "Liked receipt from 2022-12-14",
+          "excerpt": "In a different life, I was a blue pilled normie who liked Netrunner, and everyone hated me. Now, I'm a yellow pilled radical who flirts with all kinds of different political sects, and everyone hates me.",
+          "source_document_id": "1602841054788526085",
+          "timestamp": "2022-12-14T01:41:01+00:00",
+          "url": "https://x.com/realpilleater/status/1602841054788526085",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: liked, drugs, ever, everyone."
+        },
+        {
+          "id": "art_3d9f7deb3e87",
+          "title": "Liked receipt from 2025-08-27",
+          "excerpt": "It was August 1st and Lucrecia Dalt had announced a secret DJ event that following day in Red Hook.\n\nI knew right away David Sylvian would be there.\n\nYou can either work your fake socialist job at Perfect Circuit, or grab the bull by the horns and ride it.\n\nThey never liked you. https://t.co/SAIKCiLbMT",
+          "source_document_id": "1960791191554756967",
+          "timestamp": "2025-08-27T19:47:04+00:00",
+          "url": "https://x.com/realpilleater/status/1960791191554756967",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: liked, drugs, ever, everyone."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9dc35dab1ce5",
+      "proof_score": 0.703,
+      "mass": 22.798,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_8208b36cc3a9",
+      "name": "Blackstone",
+      "summary": "Archive cluster around blackstone: 1354 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "blackstone",
+        "mpegz696",
+        "stark",
+        "yes",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_21168828b801",
+          "title": "Blackstone receipt from 2022-11-22",
+          "excerpt": "@2020Blackstone @talunavgals https://t.co/QmrAo2mAz1",
+          "source_document_id": "1595174247147704321",
+          "timestamp": "2022-11-22T21:55:52+00:00",
+          "url": "https://x.com/realpilleater/status/1595174247147704321",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: blackstone, mpegz696, stark, yes."
+        },
+        {
+          "id": "art_4b32b555ea1d",
+          "title": "Blackstone receipt from 2022-09-22",
+          "excerpt": "@RJSwrites @NobleRed9 @2020Blackstone You should also read @baltic_dan 's new book NUTCRANKR coming out Sep 30th at Terror House Press.",
+          "source_document_id": "1572978345633259521",
+          "timestamp": "2022-09-22T15:57:16+00:00",
+          "url": "https://x.com/realpilleater/status/1572978345633259521",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: blackstone, mpegz696, stark, yes."
+        },
+        {
+          "id": "art_3a54dadcd679",
+          "title": "Blackstone receipt from 2022-08-13",
+          "excerpt": "@yanniversace @2020Blackstone If the roles were reverse, the man writing a book about his date rape would be ridiculed.",
+          "source_document_id": "1558527991117799425",
+          "timestamp": "2022-08-13T18:56:43+00:00",
+          "url": "https://x.com/realpilleater/status/1558527991117799425",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: blackstone, mpegz696, stark, yes."
+        },
+        {
+          "id": "art_a3dec2873b69",
+          "title": "Blackstone receipt from 2022-08-24",
+          "excerpt": "@2020Blackstone @Blair_A_Nathan USA is a Disneyland for everyone but not for the founding stock.",
+          "source_document_id": "1562240004973142018",
+          "timestamp": "2022-08-24T00:46:56+00:00",
+          "url": "https://x.com/realpilleater/status/1562240004973142018",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: blackstone, mpegz696, stark, yes."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e7d6703d6f71",
+      "proof_score": 1,
+      "mass": 29.474,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
